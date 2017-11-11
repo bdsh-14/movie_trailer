@@ -12,6 +12,7 @@
 
 <p size = 12> <b> Running from command prompt (windows): </b> <br/> 1. Click on Windows+R or Click on Windows button and type <u>cmd</u> <br/> 2. Type <i> cd path_of_the_local_destination</i> <br/> 3. type <i> python entertainment.py </i>  <br/> 4. Web browser opens with the list of movies. The desired movie can be clicked to view its trailer<br> 5. To run in an IDE, only run the <i>entertainment.py </i> file as that connects to the other files. The same output will be displayed.</p>
 
+Make sure python is already installed. If not, install it from https://www.python.org/downloads/. 
 
 <h3> Files in the repository </h3>
    <p sze = 12> <b> 1. entertainment_center.py</b> - The main entry to the program. Builds the movie list and calls the method to generate the web page. <br/>
@@ -20,10 +21,6 @@
 
 <p size=12>A fourth file, fresh_tomatoes.html, will be generated when you run the program as described above. This file is the actual web page you would see in your browser. </p>
 
-<h3> Getting started </h3>
 
-1. Click on https://www.python.org/downloads/. 
-2. Download and extract the project. 
-3. Run the file "entertainment.py"
 
 
