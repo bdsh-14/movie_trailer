@@ -1,4 +1,4 @@
-# movie_trailer_website
+# Movie Trailer Website
 
 <h3>About</h3>
 
@@ -20,5 +20,10 @@
 
 <p size=12>A fourth file, fresh_tomatoes.html, will be generated when you run the program as described above. This file is the actual web page you would see in your browser. </p>
 
+<h3> Getting started </h3>
+
+1. Click on https://www.python.org/downloads/. 
+2. Download and extract the project. 
+3. Run the file "entertainment.py"
 
 
